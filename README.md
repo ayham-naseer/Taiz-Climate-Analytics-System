@@ -53,7 +53,7 @@ Taiz Climate Dynamics (1981–2025):-
         python tz_annual_temp_analysis.py
         python tz_manual_climate_scanner.py
         Some scripts may ask for input, such as a year range.
-        Purpose
+        
 
 
     7-Project Scope:
