@@ -45,7 +45,7 @@ Taiz Climate Dynamics (1981–2025):-
         Make sure you have Python 3 installed, then run:
         Bash
         pip install pandas matplotlib seaborn numpy
-        Usage
+        
 
         
     6-Run any script directly:
